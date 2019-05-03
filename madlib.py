@@ -22,10 +22,10 @@ credits: adapted from PhD Comics
 import os
 
 #person 1
-teamName = ""
-synonymForNew = ""
-sciencyVerb = ""
-buzzword = ""
+teamName = "Team SEWZ"
+synonymForNew = "Novel"
+sciencyVerb = "Scan"
+buzzword = "Reconstruction"
 
 #person 2
 number = ""
