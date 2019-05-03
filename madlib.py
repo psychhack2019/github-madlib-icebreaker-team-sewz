@@ -41,10 +41,10 @@ scientistThatScoopsYourLabConstantly = "nuro"
 dependentVariable = "eye"
 
 #person 4
-units = ""
-buzzword4 = ""
-supremeSocialogicalConcern = ""
-nounFewPeopleHaveHeardOf = ""
+units = "Hz"
+buzzword4 = "cross-decoding"
+supremeSocialogicalConcern = "Poverty"
+nounFewPeopleHaveHeardOf = "sparseSVM"
 
 
 
