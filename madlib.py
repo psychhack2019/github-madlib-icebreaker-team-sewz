@@ -28,23 +28,23 @@ sciencyVerb = "Scan"
 buzzword = "Reconstruction"
 
 #person 2
-number = ""
-buzzword2 = ""
-sexyAdjective = ""
-somethingYouDidntInvent = ""
+number = "6"
+buzzword2 = "elephant"
+sexyAdjective = "voluptuous"
+somethingYouDidntInvent = "time"
 
 
 #person 3
-number2 = "3"
+number2 = "3 "
 buzzword3 = "ironman"
 scientistThatScoopsYourLabConstantly = "nuro"
 dependentVariable = "eye"
 
 #person 4
-units = ""
-buzzword4 = ""
-supremeSocialogicalConcern = ""
-nounFewPeopleHaveHeardOf = ""
+units = "Hz"
+buzzword4 = "cross-decoding"
+supremeSocialogicalConcern = "Poverty"
+nounFewPeopleHaveHeardOf = "sparseSVM"
 
 
 
